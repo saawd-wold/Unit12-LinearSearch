@@ -18,4 +18,4 @@
 
 ## Medium
 1. In the file `positives.py` write a function `all_positive(l)` that takes a list and returns `True` if all numbers inside `l` are positive.
-2. In the file `primes.py` complete the function `prime(n)` to see whether the argument given for th parameter `n` is a prime number. As a reminder: `n` is prime if there is no number from `2` to `n-1` that evenly divides `n`.  
+2. In the file `primes.py` complete the function `prime(n)` to see whether the argument given for th parameter `n` is a prime number. As a reminder: `n` is prime if there is no number from `2` to `n-1` that evenly divides `n`.
